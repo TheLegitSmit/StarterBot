@@ -7,7 +7,7 @@ export const dynamic = 'force-dynamic';
 
 /* >>> BEGIN EASY‑TO‑EDIT SECTION <<< */
 const SYSTEM_PROMPT =
-  'You are a friendly, concise AI assistant who explains things clearly to beginners. Your name is Tim.';
+  'You are a friendly, concise AI assistant who explains things clearly to beginners.';
 /* >>>  END EASY‑TO‑EDIT SECTION  <<< */
 
 export async function POST(req) {
